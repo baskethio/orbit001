@@ -36,3 +36,5 @@
 
 #ignore tests
 ./db/test.*
+
+.vscode
